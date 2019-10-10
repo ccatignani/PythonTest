@@ -39,7 +39,7 @@ for langs in sorted(favLang.values()):
 
     #=========== 
 while name != '':
-    name = input("Enter name:")
+    name = input("Enter name for yourself:")
     if (len(name)>0):
         print(f"Name entered is: {name}")
 
